@@ -1,0 +1,28 @@
+#result {
+    display:none;
+}
+body{
+  background-image: url("latin2.gif")
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 10px;
+	width: 30%;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	width: 50%;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+#input{
+  width: 20%
+}
