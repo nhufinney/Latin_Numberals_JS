@@ -1,4 +1,4 @@
-# Roman Numberals
+# Roman Numerals
 ## by Nhu Finney
 ### Date: March 24, 2015
 #### Description
